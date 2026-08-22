@@ -33,4 +33,4 @@ young, single, underpaid Sales Representatives working overtime with long commut
 - `dashboard_preview.png` — dashboard screenshot
 
 ## Dashboard Preview
-![Dashboard](dashboard_preview.png)
+![Dashboard](HR%20dashboard.png)
