@@ -24,9 +24,8 @@ young, single, underpaid Sales Representatives working overtime with long commut
 - Consider remote/hybrid flexibility for employees with long commutes
 
 ## Tools Used
-- SQL (SQLite) — 17 business questions covering aggregation, CASE bucketing, 
-  and subqueries
-- Excel — dashboard with KPI cards and 8 visualizations
+- **SQL (SQLite)** — 17 business questions covering aggregation, CASE bucketing, and subqueries
+- **Excel** — dashboard with KPI cards and 8 visualizations
 
 ## Files
 - `queries.sql` — all SQL queries used in the analysis
